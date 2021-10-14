@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/gwenty/pdiotapp.git
+[submodule "ml/pdiot-data"]
+	path = ml/pdiot-data
+	url = https://github.com/specknet/pdiot-data.git
