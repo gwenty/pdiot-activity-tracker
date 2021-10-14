@@ -6,7 +6,7 @@ This is the practical for the PDIoT course.
 .
 ├── app                     # Submodule to the forked pdiot app
 ├── ml                      # Where all the ML model stuff goes
-|   └── pdiot-data          # Submodule to the given data directory
+│   └── pdiot-data          # Submodule to the given data directory
 └── README.md
 
 ```
@@ -21,5 +21,5 @@ git submodule update
 ```
 
 ## Changing the submodules
-1. Commit and push the changes in the submodule
-2. Commit changes in the base directory (to track the updated submodule)
+1. Commit and push the changes in the submodule (inside the app folder)
+2. Commit and push changes in the base directory (to track the updated submodule)
