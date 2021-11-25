@@ -1,0 +1,2 @@
+,epochs,batch_size,acc_mean,sacc_mean
+0,10,64,0.6076340299498163,0.8869447649388938
