@@ -1,0 +1,1 @@
+,title,data,loss0,loss1,loss2,loss3,loss4,loss5,loss6,loss7,loss8,loss9,val_loss0,val_loss1,val_loss2,val_loss3,val_loss4,val_loss5,val_loss6,val_loss7,val_loss8,val_loss9,acc0,acc1,acc2,acc3,acc4,acc5,acc6,acc7,acc8,acc9,val_acc0,val_acc1,val_acc2,val_acc3,val_acc4,val_acc5,val_acc6,val_acc7,val_acc8,val_acc9
